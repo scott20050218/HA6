@@ -26,4 +26,4 @@
 ![img.png](./知识库验证.jpg)
 
 ## 操作视频
-![演示视频](./演示视频.mp4)
+[操作视频](https://github.com/scott20050218/HA6/blob/main/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mov)
